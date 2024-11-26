@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="style.css">
+
+        <title>CatPhotoApp</title>
+
+        <style>
+            .no-bullet{
+                list-style-type:none;
+            }
+        </style>
+
+    </head>
+
+    <body>
+        <section id="intro">
+            <h1>CatPhotoApp</h1>
+
+            <h2>Cat Photos</h2>
+            <p>Everyone loves <a>cute cats</a> online!</p>
+            <p>See more <span>cat photos</span>in our gallery.</p>
+
+            <img src="img/relaxing-cat.jpg" alt="A cute orange cat lying on its back">
+        </section>
+
+        <section id="cat-lists">
+            <h2>Cat Lists</h2>
+
+            <h3>Things cats love:</h3>
+            <ul>
+                <li>cat nip</li>
+                <li>laser pointers</li>
+                <li>lasagna</li>
+                <li class="no-bullet">
+                    <div id="lasagna">
+                    <img src="img/lasagna.jpg"><br>
+                    <span>Cats <i>loves</i> lasagna.</span>
+                    </div>
+                </li>
+            </ul>
+
+            <h3>Top 3 things cats hates:</h3>
+            <ol>
+                <li>flea treatment</li>
+                <li>thunder</li>
+                <li>other cats</li>
+                <li class="no-bullet">
+                    <div class="cats">
+                    <img src="img/cats.jpg"><br>
+                    <span>Cats <b>hates</b> other cats.</span>
+            </div>
+                </li>
+            </ol>
+
+            
+
+            <div class="cats-form">
+                <h3>Cat Form</h3>
+                <form>
+                    <div class="radio-form" style="border: 1px solid gray">
+                        <p>Is your cat a indoor or outdoor cat?</p>
+                        <label>
+                            <input type="radio" name="indoor" value="indoor" checked>Indoor
+                        </label>
+
+                        <label>
+                            <input type="radio" name="outdoor" value="outdoor">Outdoor
+                        </label>
+                    </div>
+
+                    <div class="checkbox-form" style="border: 1px solid gray">
+                        <p>Wha's your cat's personality?</p>
+                        <label>
+                            <input type="checkbox" name="loving" value="loving" checked>Loving
+                        </label>
+
+                        <label>
+                            <input type="checkbox" name="lazy" value="lazy">Lazy
+                        </label>
+
+                        <label>
+                            <input type="checkbox" name="energetic" value="energetic">Energetic
+                        </label>
+                    </div>
+
+                    <div>
+                        <input type="file" placeholder="cat photo URL">
+                    </div>
+
+                    <button type="submit">Submit</button>
+                </form>     
+            </div>
+        </section>
+
+        <footer>
+            No Copyright - <a>freeCodeCamp.org</a>
+        </footer>
+
+    </body>
+</html>
+  </body>
+</html>

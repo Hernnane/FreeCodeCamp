@@ -1,0 +1,10 @@
+ALT = Mensagem para caso a imagem não carregue (acessibilidade) - Usar em todas as imagens;
+TARGET = Abre o link numa outra aba ou janela;
+HREF - Dá pra usar em imagens também (precisa do <a> obviamente);
+FIGURE = Tudo que tive dentro dessa tag com a imagem vai ficar junto;
+FIGCAPTION = Descreve a imagem;
+EM - Ênfase;
+REQUIRED - Pode botar nos inputs normalmente;
+FIELDSET - Usada para agrupar elementos relacionados em um formulário, criando uma seção visualmente separada com uma borda ao redor;
+LEGEND - Descrição;
+ARTICLE = Contém elementos diferentes que estão relacionados;

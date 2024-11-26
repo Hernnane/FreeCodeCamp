@@ -1,0 +1,100 @@
+
+Prática HTML e CSS: Criar páginas simples
+========================================
+Exercício 1: Planejar e criar uma página web simples com layout básico e estilizações de fundo.
+- Objetivo: Criar uma página HTML com título, parágrafos, imagens, e links externos. Estilize com CSS adicionando cor ao fundo, bordas e fontes personalizadas.
+- Dica: Use as tags básicas como <h1>, <p>, <a>, <img> e utilize classes no CSS para estilização.
+
+Exercício 2: Criar uma página com navegação e links internos.
+- Objetivo: Desenvolver uma página HTML com múltiplas seções e um menu de navegação funcional para essas seções.
+- Dica: Use âncoras (<a href="#id">) para criar links internos que levam a partes específicas da página.
+
+Exercício 3: Estilizar a página utilizando Flexbox e Grid Layout.
+- Objetivo: Organizar os elementos da página criada anteriormente, utilizando técnicas de Flexbox e Grid Layout para um layout moderno.
+- Dica: Experimente criar um cabeçalho, área de conteúdo e rodapé, e use as propriedades justify-content e align-items.
+
+Exercício 4: Criar uma página responsiva usando media queries.
+- Objetivo: Adaptar a página para ser visualizada em diferentes dispositivos (desktop, tablet e celular).
+- Dica: Use media queries no CSS para alterar tamanhos de fontes, largura de elementos e organização do layout.
+
+---
+
+Prática JavaScript: Criar interações simples
+============================================
+Exercício 1: Criar um contador que utiliza eventos e manipulação do DOM.
+- Objetivo: Desenvolver um botão que incremente ou decremente um número exibido na página.
+- Dica: Use addEventListener para capturar cliques nos botões e manipule o innerText de um elemento.
+
+Exercício 2: Desenvolver um formulário simples de cadastro e validação.
+- Objetivo: Criar um formulário que verifica se os campos foram preenchidos corretamente e exibe mensagens de erro, se necessário.
+- Dica: Utilize o método preventDefault() para evitar o envio do formulário e faça as validações usando JavaScript.
+
+Exercício 3: Criar uma lista interativa onde o usuário pode marcar itens.
+- Objetivo: Criar uma lista onde o usuário pode adicionar itens e marcá-los como concluídos.
+- Dica: Use eventos como click para alterar o estilo dos itens (ex: riscar texto ao clicar).
+
+Exercício 4: Implementar uma calculadora simples com operações básicas.
+- Objetivo: Desenvolver uma calculadora que realize as quatro operações matemáticas básicas e exiba o resultado.
+- Dica: Utilize um campo de entrada para os números e botões para as operações. Manipule o resultado dinamicamente.
+
+---
+
+Prática React: Criar app simples
+================================
+Exercício 1: Estruturar o projeto To-Do List e manipular estado básico.
+- Objetivo: Criar uma lista de tarefas onde o usuário possa adicionar e remover itens, utilizando useState.
+- Dica: Configure o projeto com create-react-app e divida os componentes em arquivos separados.
+
+Exercício 2: Adicionar contadores e lógica de renderização dinâmica.
+- Objetivo: Adicionar um contador de tarefas concluídas e exibir mensagens dinâmicas com base no número de tarefas.
+- Dica: Utilize condicionais para renderizar mensagens como "Nenhuma tarefa pendente".
+
+Exercício 3: Consumir API e integrar componentes.
+- Objetivo: Criar um componente que consome dados de uma API externa e os exibe em uma lista.
+- Dica: Use a função fetch() ou bibliotecas como axios para realizar as requisições.
+
+Exercício 4: Criar formulário de login e validação.
+- Objetivo: Desenvolver uma página de login que verifica se os campos foram preenchidos e valida as credenciais com uma API simulada.
+- Dica: Use estados para capturar os valores dos campos e exibir mensagens de erro.
+
+---
+
+Prática Node.js: Criar API simples
+==================================
+Exercício 1: Configurar estrutura inicial do projeto com Express.
+- Objetivo: Criar um servidor básico com rotas iniciais para GET e POST.
+- Dica: Instale o Express e crie rotas como "/api/status" que retornam um JSON com o status da aplicação.
+
+Exercício 2: Criar sistema de gerenciamento de tarefas em memória.
+- Objetivo: Criar uma API que gerencie tarefas (adicionar, listar, editar e remover) sem uso de banco de dados.
+- Dica: Use um array para armazenar as tarefas e implemente métodos HTTP como POST, GET, PUT e DELETE.
+
+Exercício 3: Conectar banco de dados MongoDB.
+- Objetivo: Adaptar o sistema de tarefas para salvar os dados em um banco de dados MongoDB.
+- Dica: Utilize a biblioteca mongoose para definir o schema e realizar operações.
+
+Exercício 4: Desenvolver gestão de produtos em e-commerce.
+- Objetivo: Criar uma API RESTful para gerenciar produtos de um e-commerce com categorias, preços e estoque.
+- Dica: Adicione validações para os dados enviados e implemente paginação para a listagem de produtos.
+
+---
+
+Prática GraphQL: Integrar GraphQL com Node.js
+=============================================
+Exercício 1: Configurar servidor GraphQL e retornar dados básicos.
+- Objetivo: Criar um servidor GraphQL que retorna informações estáticas como nome e idade de um usuário.
+- Dica: Use a biblioteca Apollo Server para configurar rapidamente o ambiente.
+
+Exercício 2: Criar consultas e mutações básicas.
+- Objetivo: Adicionar queries para listar usuários e mutações para criar novos usuários.
+- Dica: Crie um array para armazenar os dados e use resolvers para as operações.
+
+Exercício 3: Integrar banco de dados e gerenciar dados.
+- Objetivo: Conectar o servidor GraphQL a um banco de dados MongoDB e manipular dados de forma dinâmica.
+- Dica: Adapte os resolvers para interagir com o banco de dados usando mongoose.
+
+Exercício 4: Implementar sistema de autenticação usando GraphQL.
+- Objetivo: Criar um sistema de autenticação com tokens JWT e proteger as rotas GraphQL.
+- Dica: Utilize middlewares para verificar os tokens antes de acessar determinadas operações.
+
+(... Adicionar os exercícios restantes ...)

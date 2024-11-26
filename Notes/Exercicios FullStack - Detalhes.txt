@@ -1,0 +1,70 @@
+
+Prática HTML e CSS: Criar páginas simples
+-----------------------------------------
+Exercício 1: Criar uma página web simples com layout básico e estilizações de fundo.
+- Objetivo: Aprender a estruturar uma página HTML com tags básicas e aplicar estilos CSS básicos.
+- O que fazer: Crie uma página com cabeçalho, parágrafos, e rodapé. Adicione cores de fundo e fontes diferentes usando CSS.
+- Tempo sugerido: 2 horas.
+
+Exercício 2: Criar uma página com navegação e links internos.
+- Objetivo: Explorar a navegação entre diferentes seções ou páginas.
+- O que fazer: Crie uma página com um menu de navegação que permite rolar para seções diferentes ou abrir outras páginas HTML.
+- Tempo sugerido: 2 horas.
+
+Exercício 3: Estilizar a página utilizando Flexbox e Grid Layout.
+- Objetivo: Praticar técnicas modernas de layout CSS.
+- O que fazer: Crie um layout dividido em áreas utilizando Flexbox e Grid, como uma galeria de imagens ou cards de texto.
+- Tempo sugerido: 3 horas.
+
+Exercício 4: Criar uma página responsiva usando media queries.
+- Objetivo: Aprender a adaptar uma página para diferentes tamanhos de tela.
+- O que fazer: Crie uma página que tenha layouts diferentes para dispositivos móveis, tablets e desktops usando media queries.
+- Tempo sugerido: 3 horas.
+
+Prática JavaScript: Criar interações simples
+--------------------------------------------
+Exercício 1: Criar um contador que utiliza eventos e manipulação do DOM.
+- Objetivo: Aprender a manipular o DOM e lidar com eventos de clique.
+- O que fazer: Crie botões de “+” e “-” para incrementar e decrementar um número exibido na tela.
+- Tempo sugerido: 2 horas.
+
+Exercício 2: Desenvolver um formulário simples de cadastro e validação.
+- Objetivo: Validar entradas do usuário com JavaScript.
+- O que fazer: Crie um formulário com campos como nome, e-mail e senha. Mostre mensagens de erro se os campos forem deixados em branco ou inválidos.
+- Tempo sugerido: 2 horas.
+
+Exercício 3: Criar uma lista interativa onde o usuário pode marcar itens.
+- Objetivo: Utilizar eventos para manipular uma lista.
+- O que fazer: Crie uma lista de tarefas onde o usuário pode adicionar, marcar como concluído ou remover itens.
+- Tempo sugerido: 3 horas.
+
+Exercício 4: Implementar uma calculadora simples com operações básicas.
+- Objetivo: Praticar lógica de programação e manipulação do DOM.
+- O que fazer: Desenvolva uma calculadora que realiza operações como soma, subtração, multiplicação e divisão.
+- Tempo sugerido: 3 horas.
+
+Prática React: Criar app simples
+--------------------------------
+Exercício 1: Estruturar o projeto To-Do List e manipular estado básico.
+- Objetivo: Familiarizar-se com o uso de estados no React.
+- O que fazer: Crie um aplicativo To-Do List onde o usuário pode adicionar e remover tarefas, utilizando `useState`.
+- Tempo sugerido: 3 horas.
+
+Exercício 2: Adicionar contadores e lógica de renderização dinâmica.
+- Objetivo: Utilizar renderização condicional e mais lógica no estado.
+- O que fazer: Adicione contadores que mudam dinamicamente e exiba diferentes mensagens com base em condições.
+- Tempo sugerido: 3 horas.
+
+Exercício 3: Consumir API e integrar componentes.
+- Objetivo: Aprender a buscar dados de uma API.
+- O que fazer: Consuma uma API pública (ex.: dados de filmes) e exiba os resultados na interface.
+- Tempo sugerido: 4 horas.
+
+Exercício 4: Criar formulário de login e validação.
+- Objetivo: Validar inputs e enviar dados para o back-end.
+- O que fazer: Crie um formulário funcional de login que valide entradas e mostre mensagens de erro.
+- Tempo sugerido: 4 horas.
+
+...
+
+(O texto continua com o mesmo nível de detalhamento para os tópicos restantes.)
